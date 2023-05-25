@@ -11,20 +11,20 @@ We release our manually annotated adverbial marker dataset on modern Chinese lit
 If you use our adverbial marker dataset in your reseasrch work, please cite us.
 ```
 @inproceedings{xie-etal-2021-unsupervised,
-    title = "Unsupervised Adverbial Identification in {M}odern {C}hinese Literature",
+    title = "Unsupervised Adverbial Identification in Modern Chinese Literature",
     author = "Xie, Wenxiu  and
       Lee, John  and
       Zhan, Fangqiong  and
       Han, Xiao  and
       Chow, Chi-Yin",
     booktitle = "Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
-    month = nov,
+    month = Nov,
     year = "2021",
     address = "Punta Cana, Dominican Republic (online)",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.latechclfl-1.10",
     doi = "10.18653/v1/2021.latechclfl-1.10",
-    pages = "91--95",
+    pages = "91-95",
 }
 ```
 
@@ -39,16 +39,20 @@ We release the raw data we used to generate Figures 1 to 5 that plot the DE rati
 ## Citation
 If you use our data of diachronic analysis in your reseasrch work, please cite us.  
 ```
-@inproceedings{Lee-etal-2023-diachronic-analysis,
+@inproceedings{lee-etal-2023-standard,
     title = "Standard and Non-standard Adverbial Markers: a Diachronic Analysis in Modern Chinese Literature",
-    author = "Lee, John S. Y.  and
+    author = "Lee, John  and
       Zhan, Fangqiong  and
       Xie, Wenxiu  and
       Han, Xiao  and
-      Chow, Chi-Yin and
-	  Lam, Kam-Yiu",
+      Chow, Chi-Yin  and
+      Lam, Kam-Yiu",
     booktitle = "Proceedings of the 7th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
-    month = March,
+    month = May,
     year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.latechclfl-1.1",
+    pages = "1-9",
 }
 ```
